@@ -10,9 +10,9 @@ on the nbviewer website page and press Enter.
 
 
 ABOUT PROJECT.
+
 This is a private hackathon open to Data Science Nigeria (DSN) 
 Pre-Bootcamp hackathon participants. 
-
 
 Expresso is an African telecommunications company that provides 
 customers with airtime and mobile data bundles. The objective of 
